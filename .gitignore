@@ -107,3 +107,4 @@ venv.bak/
 
 # Others (Iker)
 .DS_Store
+*.db
